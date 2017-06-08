@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://zuhaili92.herokuapp.com/'),
+    'url' => env('APP_URL', 'https://limitless-hollows-44660.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
